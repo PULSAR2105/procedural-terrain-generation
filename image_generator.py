@@ -99,10 +99,6 @@ def gene(arr):
             pix[x, y] = color
 
 
-
-
-
-
     """
     color = (142, 142, 142)
     for y in tqdm(range(1, size[1] - 1)):
